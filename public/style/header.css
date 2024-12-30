@@ -1,0 +1,19 @@
+.nav{
+    background-color: #252B42;
+    display: flex;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 700;
+    width: 1438px;
+    height: 46px;
+    justify-content: space-between;
+    padding-right: 24px;
+    padding-left: 24px;
+}
+.one{
+    display: flex;
+}
+.two{
+    display: flex;
+    
+}
